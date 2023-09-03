@@ -1,0 +1,1 @@
+# ninjhascript-compiler
